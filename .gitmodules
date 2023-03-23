@@ -8,3 +8,8 @@
 	url = https://github.com/alexiajm/bayestreeprior
 	shallow = true
 	registered = true
+[submodule "LEGIT"]
+	path = LEGIT
+	url = https://github.com/cran/LEGIT
+	shallow = true
+	registered = true
